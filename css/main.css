@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+div p span{
+    color: rgb(67, 143, 242);
+}
+
